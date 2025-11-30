@@ -11,8 +11,8 @@ Objective:
 To visualize and analyze passenger demographics and survival patterns using Tableau.
 
 Tasks Performed:
-Bar chart – Passenger count by gender
-Stacked bar chart – Survival count by gender
+1.Bar chart – Passenger count by gender
+2.Stacked bar chart – Survival count by gender
 Bar chart – Survival rate by passenger class
 Histogram – Age distribution of passengers
 Bar chart – Average fare by class
